@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stoper-react/static/css/main.e6c13ad2.css",
+    "main.js": "/stoper-react/static/js/main.9dcc0847.js",
+    "static/js/453.2adb10d8.chunk.js": "/stoper-react/static/js/453.2adb10d8.chunk.js",
+    "index.html": "/stoper-react/index.html",
+    "main.e6c13ad2.css.map": "/stoper-react/static/css/main.e6c13ad2.css.map",
+    "main.9dcc0847.js.map": "/stoper-react/static/js/main.9dcc0847.js.map",
+    "453.2adb10d8.chunk.js.map": "/stoper-react/static/js/453.2adb10d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9dcc0847.js"
+  ]
+}
